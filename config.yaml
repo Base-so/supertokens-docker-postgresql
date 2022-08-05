@@ -2,5 +2,5 @@ core_config_version: 0
 postgresql_config_version: 0
 postgresql_password: "wAlIfPgshg4Ypz9eVUtYSq3CzbnRZ1FK"
 postgresql_user: "supertokens"
-host: "dpg-cbmkq282i3mvbbut1btg-a"
+host: "0.0.0.0"
 disable_telemetry: true
